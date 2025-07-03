@@ -15,13 +15,17 @@
   <a href="https://t.me/Ahmed_Elghrabawy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CONNECT&logo=telegram&label=Telegram&color=f7612a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
+  <a href="https://www.facebook.com/ahmed.elghrabawy.31/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CONNECT&logo=facebook&label=Facebook&color=f7612a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gharbawy1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gharbawy1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gharbawy1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Gharbawy1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gharbawy1&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
