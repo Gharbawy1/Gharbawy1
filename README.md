@@ -21,13 +21,3 @@
 </div>
 
 ###
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Gharbawy1&radius=16&theme=gruvbox&area=true&hide_border=true&custom_title=Contribution%20Graph"
-    height="300"
-    alt="Contribution Graph"
-  />
-
-</div>
-
-###
